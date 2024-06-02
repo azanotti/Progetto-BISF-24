@@ -1,4 +1,4 @@
-This file was created by CMPT_ME_BEME_RETS using the 202403 CRSP database.
+This file was created by CMPT_ME_BEME_RETS using the 202404 CRSP database.
 The 1-month TBill return is from Ibbotson and Associates, Inc.
 
 ,Mkt-RF,SMB,HML,RF
@@ -1172,9 +1172,10 @@ The 1-month TBill return is from Ibbotson and Associates, Inc.
 202310,   -3.19,   -3.88,    0.18,    0.47
 202311,    8.84,   -0.02,    1.64,    0.44
 202312,    4.87,    6.34,    4.93,    0.43
-202401,    0.71,   -5.09,   -2.38,    0.47
+202401,    0.70,   -5.09,   -2.38,    0.47
 202402,    5.06,   -0.24,   -3.49,    0.42
 202403,    2.83,   -2.49,    4.19,    0.43
+202404,   -4.67,   -2.39,   -0.51,    0.47
 
  Annual Factors: January-December 
 ,Mkt-RF,SMB,HML,RF
